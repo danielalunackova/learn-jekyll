@@ -5,19 +5,19 @@ title: About
 
 # # 1000 malých radostí
 
-1.	Cílová skupina
+###1.	Cílová skupina
 
  Lidé v rozmezí 18-35 let
 
-2.	Cíl webu 
+###2.	Cíl webu 
 
  Cílem našeho webu je najít v životě pozitivní aspekty, které nejsou tak viditelné a přesto nás dokáží ovlivnit. Jde nám o to motivovat lidi kolem nás tím, že budeme sdílet naše úspěchy ať už malé nebo ty větší. Také bychom rády přinesly pozitivní náhled na život, protože pobavit se na maličkostech může neskutečně ovlivnit celý pohled na daný den, měsíc nebo rok.
 
-3.	Název webu
+###3.	Název webu
 
  1000 malých radostí 
 
-4.	Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti
+###4.	Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti
 
  http://www.1000vecicomeserou.cz/
  https://psychologie.cz/jak-si-nicit-zivot-pozitivnim-myslenim/
@@ -27,7 +27,7 @@ title: About
  http://www.astrologbrnovenkov.cz/vliv-myslenek/
  http://www.goethe.de/ins/cz/prj/jug/the/sin/cs12496948.htm
 
-5.	Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
+###5.	Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
 
  BITCH, Achjo, ATTILA BIČ BOŽÍ a CURVEKILLER. 1000 věcí, co mě serou: ..one hate is never enough.. Praha: Plot, 2015. ISBN 978-80-7428-077-1.
 
@@ -39,7 +39,7 @@ title: About
 
  RUBIN, Gretchen. The happiness project or, Why I spent a year trying to sing in the morning, clean my closets, fight right, read Aristotle, and generally have more fun. New York : Harper, 2011. ISBN 978-0061583261
 
-6.	Dostupná multimédia
+###6.	Dostupná multimédia
 
  https://www.youtube.com/watch?v=RsjI7Z7cqUs
  https://www.youtube.com/watch?v=LxXVxFOy1X4
@@ -49,12 +49,12 @@ title: About
  http://www.autismafter16.com/sites/default/files/imagecache/article_large/article-images/glass%20half%20empty.jpg
  http://www.lovethispic.com/uploaded_images/enjoy_the_little_things_in_life.jpg
 
-7.	Vizuální inspirace pro budoucí vzhled webu
+###7.	Vizuální inspirace pro budoucí vzhled webu
 
  http://1000awesomethings.com/
  http://www.1000vecicomeserou.cz/
 
 
-8.	Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
-9.	Jaké informace a jakým způsobem budete zveřejňovat?
+###8.	Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+###9.	Jaké informace a jakým způsobem budete zveřejňovat?
  Zveřejňování obsahu máme naplánované ve formě krátkých článků, pokud to bude možné tak s fotkou anebo obrázkem
