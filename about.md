@@ -56,5 +56,19 @@ title: About
 
 
 ### 8.	Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+
+- Náš web bude mať špecifickú štruktúru v tom, že sa tu bude nachádzať 1000 príspevkov, ktoré budú predstavovať 1000 malých radostí.
+- Samozrejme, v sekcii "About us" sa návštevník stránky dozvie základné infomrácie o nás: kto sme a prečo vznikol tento web. 
+- Ďalej plánujeme publikovať TOP10 malých radostí, pričom si každá z autoriek zostaví svoj TOP10 na základe vlastných preferencií. 
+- Poslednou zložkou štruktúry nášho webu sú podkategórie ako napríklad, radosti súvisiace so:
+                        - školou
+                        - prácou
+                        - prírodou
+                        - zvieratami
+                        - cestovaním
+                        - filmami a seriálmi
+                        - hudbou
+                        - atď...
+     
 ### 9.	Jaké informace a jakým způsobem budete zveřejňovat?
  Zveřejňování obsahu máme naplánované ve formě krátkých článků, pokud to bude možné tak s fotkou anebo obrázkem
