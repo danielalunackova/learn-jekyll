@@ -1,0 +1,1 @@
+# Nevím, jestli to dělám dobře, ale zkouším to!
