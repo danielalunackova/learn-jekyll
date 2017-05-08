@@ -28,10 +28,10 @@ nav ul {
 	list-style-type: none;
 	padding: 0;
 }
-html { font-size: 100%; }
+html { font-size: 400%; }
 
 * {
-  box-sizing: inherit;
+  box-sizing: 500px;
 }
 
 html {
@@ -79,7 +79,7 @@ img {
 }
 
 h1, .as-h1 {
-  font-size: 2em;
+  font-size: 6em;
   margin: 0 0 20px;
 }
 
