@@ -31,7 +31,7 @@ nav ul {
 html { font-size: 100%; }
 
 * {
-  box-sizing: inherit;
+  box-sizing: 500px;
 }
 
 html {
