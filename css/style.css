@@ -31,7 +31,7 @@ nav ul {
 	list-style-type: none;
 	padding: 0;
 }
-html { font-size: 200%; }
+html { font-size: 120%; }
 
 * {
   box-sizing: 500px;
@@ -82,7 +82,7 @@ img {
 }
 
 h1, .as-h1 {
-  font-size: 2em;
+  font-size: 200px;
   margin: 0 0 20px;
 }
 
