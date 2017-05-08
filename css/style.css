@@ -40,7 +40,7 @@ html {
 body {
   margin: 0;
   font: 125% / 1.4 'Helvetica', 'Arial', sans-serif;
-  background-color: #38aa3a;
+  background-color: #eec8f4;
 }
 
 a {
@@ -97,12 +97,12 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
+    background-color: #f29898;
 }
 
 li a {
     display: block;
-    color: #000;
+    color: #ef8686;
     padding: 8px 16px;
     text-decoration: none;
 }
@@ -112,5 +112,5 @@ li a:hover {
     background-color: #555;
     color: white;
 }
-Try it Yourself »
+
 
