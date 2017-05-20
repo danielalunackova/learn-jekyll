@@ -3,8 +3,7 @@ layout: page
 title: Home
 ---
 
-# Hello World! (It works!)
-
+## Hello World! (It works!)
 This are the contents of the Jekyll front page.
 
 ## Something to read: Sonnet LXVI.
