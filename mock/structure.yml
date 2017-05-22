@@ -5,17 +5,15 @@
   - 2017-03-13-welcome-to-jekyll.md
   - 2017-03-17-another-post.md
   - 2017-04-09-radost-číslo-1.md
-<<<<<<< HEAD
-  - 2017-04-09-radost-číslo-2.md
-=======
->>>>>>> origin/learn-jekyll-testuje-tvorbu-vetvy
-
   - 2017-05-17-radost-číslo-2.md
   - 2017-04-14-about-us.md
   - 2017-05-07-data-pro-projekt.md
   - 2017-05-19-radost-číslo-3.md
   - 2017-05-20-radost-číslo-4.md
   - 2017-05-20-radost-číslo-5.md
+  - 2017-05-22-radost-číslo-6.md
+  - 2017-05-22-radost-číslo-7.md
+
   
 - _includes:
   - menu.md
